@@ -1,4 +1,8 @@
+
 **NOTE: This repository is a clone of https://www.npmjs.com/package/cordova-android-firebase-gradle-release**
+
+WARNING: YOU SHOULDNT USE THIS REPOSITORY, ITS A TEMPORARY SOLUTION REPO FOR MY OWN PROJECT PROBLEMS WITH CORDOVA ANDROID VERSION
+======================================
 
 cordova-android-firebase-gradle-release
 ======================================
